@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-estorereact-dev-6773f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::215926120184:role/amplify-estorereact-dev-6773f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::215926120184:role/amplify-estorereact-dev-6773f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-estorereact-dev-6773f-deployment",
+      "UnauthRoleName": "amplify-estorereact-dev-6773f-unauthRole",
+      "StackName": "amplify-estorereact-dev-6773f",
+      "StackId": "arn:aws:cloudformation:us-east-1:215926120184:stack/amplify-estorereact-dev-6773f/fa6a2cd0-cc35-11ef-82cd-12cccc8fa5c7",
+      "AmplifyAppId": "d1v79b66y5u6zb"
+    },
+    "categories": {
+      "auth": {
+        "estorereactdd304e90": {}
+      }
+    }
+  }
+}
