@@ -88,3 +88,9 @@ This project is a front-end clone of Apple's website, built using React and Mate
 ### Deploy Backend
 1. Use below to deploy your backend configuration to AWS. This action creates a Cognito user pool.
 >amplify push
+
+##Final result:
+
+<a href="https://postimg.cc/30gMt0g9" target="_blank"><img src="https://i.postimg.cc/MHLWKyXk/sign-in.png" alt="sign-in"/></a><br/><br/>
+<a href="https://postimg.cc/ThmXdFZm" target="_blank"><img src="https://i.postimg.cc/VsZsRcg7/sing-up.png" alt="sing-up"/></a><br/><br/>
+<a href="https://postimg.cc/3dTQd9Tq" target="_blank"><img src="https://i.postimg.cc/CLZhr66w/Screenshot-2025-01-06-at-8-02-52-PM.png" alt="Screenshot-2025-01-06-at-8-02-52-PM"/></a><br/><br/>
