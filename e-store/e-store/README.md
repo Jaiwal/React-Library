@@ -25,7 +25,7 @@ This project is a front-end clone of Apple's website, built using React and Mate
 
 ## Material UI Installation
 1. Install Material UI using:
-npm install @mui/material @emotion/react @emotion/styled
+>npm install @mui/material @emotion/react @emotion/styled
 2. Import the icons as well
 
 
@@ -74,18 +74,17 @@ npm install @mui/material @emotion/react @emotion/styled
 ### Initialise Amplify Project
 1. Navigate to your React app’s root directory.
 2. Use the command:
->>amplify init
+>amplify init
 3. Provide a name for your Amplify app.
 4. Accept the default configurations.
 5. Choose the AWS profile you configured earlier.
 
 ### Add Authentication
 1. Use:
->> amplify add auth
+> amplify add auth
 2. Add Amazon Cognito authentication to the app.
 3. Select default configuration and choose email as the sign-in method.
 
 ### Deploy Backend
-1. Use:
->>amplify push
-Deploy your backend configuration to AWS. This action creates a Cognito user pool.
+1. Use below to deploy your backend configuration to AWS. This action creates a Cognito user pool.
+>amplify push
